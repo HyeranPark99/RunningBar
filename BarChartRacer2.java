@@ -9,7 +9,7 @@ public class BarChartRacer2 {
 		StdDraw.enableDoubleBuffering();
 		
 		
-		File file = new File("C:\\Users\\Hyeran\\Desktop\\Data.txt");
+		File file = new File("Address of the Data.txt file");
 		Scanner myFile = new Scanner(file);
 		
 		
