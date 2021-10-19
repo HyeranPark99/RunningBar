@@ -5,7 +5,7 @@ CONTENTS OF THIS FILE
 ---------------------
  ### Introduction
 Running Bar shows the trend of movies earnings from top 1 to 12(1982~2019) <br/>
-Assignment's instruction can be found the following link shorturl.at/tJTZ5. <br/>
+Assignment's instruction can be found the following link //coursera.cs.princeton.edu/introcs/assignments/barchart/specification.php <br/>
  
  ### Requirements
 Java version 8 or higher.
